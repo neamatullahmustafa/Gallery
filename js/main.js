@@ -94,3 +94,4 @@ else if (e.key == '39') {
 right()}
 
 })
+setInterval(left, 1000);
