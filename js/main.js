@@ -94,4 +94,4 @@ else if (e.key == '39') {
 right()}
 
 })
-setInterval(left, 1000);
+setInterval(left, 5000);
